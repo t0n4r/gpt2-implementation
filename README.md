@@ -15,7 +15,7 @@ Key features:
 ## Links
 
 - **Google Colab Notebook**: [Run the Code](https://colab.research.google.com/drive/1zmiC_-CCRgKn0fWWwn5x-_wJseZ4APCt?usp=sharing)
-- **Detailed Blog Post**: [Read the Tutorial](YOUR_WEBSITE_LINK_HERE)
+- **Detailed Blog Post**: [Read the Tutorial](https://tonar.xyz/blog/2025/gpt2_tutorial/)
 
 ## Usage
 
